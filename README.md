@@ -11,4 +11,4 @@
   
 ### 텔레그램 봇 생성
   - 텔레그렘 로그인 => BotFather 검색 => 봇생성(/newbot) => HTTP API 저장 => 생성된 봇에서 채팅 시작 
-  => "https://api.telegram.org/bot<HTTP API>/getUpdates" 작성하여 chatID 저장
+  => "https://api.telegram.org/bot<이곳에 API키 입력>/getUpdates" 작성하여 chatID 저장
